@@ -1,0 +1,10 @@
+[package]
+name = "wgpu-tools"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wgpu = "0.20.1"
+thiserror = "1.0.57"
+nalgebra = "0.33.0"
+image = "0.25.1"
